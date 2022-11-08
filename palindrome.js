@@ -1,3 +1,5 @@
+//this is a palindrome program
+
 var isPalindrome = function(x) {
     let temp = x;
     let reversed = 0;
